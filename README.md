@@ -6,3 +6,4 @@ how it work:
 
 1. I put the robot's tire on the blackboard every 10 degrees to move the car forward.
 2. I used the roudpach variarable to store my progress so that when the car returned,it will axactly where the car start.
+![这里写图片描述](https://github.com/Jasper-World/blackboardprinter/blob/main/structurewithblackboard.HEIC)
