@@ -2,7 +2,7 @@
 Base on Lego EV3 program, working for blackboard, it printer in blackboard draw what do you want.
 
 I use some H bean and other parts to make the car move and use two turbine assembly to allowed the mechanical arm to flex and print, one is the arm that con go up and down the other is at the end of the mechanical arm and it can move back and forth.
-
+![这里写图片描述]
 #how it work: 
 1. I put the robot's tire on the blackboard every 10 degrees to move the car forward.
 2. I used the roudpach variarable to store my progress so that when the car returned,it will axactly where the car start.
